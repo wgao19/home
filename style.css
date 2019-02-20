@@ -63,7 +63,7 @@ a:hover {
   border-bottom: 2px solid var(--med);
 }
 p {
-  line-height: 1.6;
+  line-height: 1.8;
 }
 .content {
   width: calc(80% - 2 * var(--padding-w));
