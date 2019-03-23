@@ -91,6 +91,17 @@ p {
 }
 .name {
   margin-top: 0;
+  margin-bottom: 0;
+}
+.nav {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  min-height: 2rem;
+}
+.location {
+  margin-top: 0.2rem;
 }
 .section {
   grid-row: 3;
