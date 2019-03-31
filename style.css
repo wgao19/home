@@ -55,12 +55,12 @@ a {
   color: var(--med);
   padding: 4px 0 2px;
   transition: all ease 0.2s;
-  border-bottom: 1px solid var(--light);
+  border-bottom: 2px solid var(--light);
   text-shadow: var(--light) 0 0 2px;
 }
 a:hover {
   background: var(--light);
-  border-bottom: 2px solid var(--med);
+  border-bottom: 1px solid var(--med);
 }
 p {
   line-height: 1.8;
